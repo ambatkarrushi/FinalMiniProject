@@ -14,7 +14,11 @@ public class CustomerBean {
 	private String availabeStatus;
 	private double startRange;
 	private double endRange;
+	
+	
+	
 
+	
 	public String getCarManufacturer() {
 		return carManufacturer;
 	}
